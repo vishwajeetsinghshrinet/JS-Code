@@ -1,73 +1,80 @@
-# This is a readme me file of JS 
+# JavaScript Quick Revision Guide
 
-Author: Vishwajeet Singh
-Purpose = Quick Revison
+**Author:** Vishwajeet Singh  
+**Purpose:** Quick Revision
 
-## Single Line Comment 
-Single line comments start with //.
+---
 
-## Multi Line Comment
-Multi-line comments start with /* and end with */.
+## Comments
 
-##Operator in JavaScript
-1. Arithmetic Operators
-+   Addition
--   Subtraction
-*   Multiplication
-/   Division
-%   Modulus (remainder)
-**  Exponent (power)
+### Single Line Comment
+- Starts with `//`
 
-2. Assignment Operators
-=    Assign
-+=   Add & assign
--=   Subtract & assign
-*=   Multiply & assign
-/=   Divide & assign
-%=   Modulus & assign
-**=  Power & assign
+### Multi-line Comment
+- Starts with `/*` and ends with `*/`
 
-3. Comparison Operators
-=    Assign
-+=   Add & assign
--=   Subtract & assign
-*=   Multiply & assign
-/=   Divide & assign
-%=   Modulus & assign
-**=  Power & assign
+---
 
-4. Logical Operators
-&&   AND
-||   OR
-!    NOT
+## Operators in JavaScript
 
-5. Unary Operators
-++   Increment
---   Decrement
-typeof  Check type
+### 1. Arithmetic Operators
+- `+` Addition
+- `-` Subtraction
+- `*` Multiplication
+- `/` Division
+- `%` Modulus (remainder)
+- `**` Exponent (power)
 
-6. Ternary Operator
-condition ? value1 : value2
+### 2. Assignment Operators
+- `=` Assign
+- `+=` Add & assign
+- `-=` Subtract & assign
+- `*=` Multiply & assign
+- `/=` Divide & assign
+- `%=` Modulus & assign
+- `**=` Power & assign
 
-7. Nullish Coalescing Operator
-??
+### 3. Comparison Operators
+- `==` Equal to
+- `===` Strict equal (value & type)
+- `!=` Not equal
+- `!==` Strict not equal
+- `>` Greater than
+- `<` Less than
+- `>=` Greater than or equal
+- `<=` Less than or equal
 
-8. Optional Chaining
-?.
+### 4. Logical Operators
+- `&&` AND
+- `||` OR
+- `!` NOT
 
-9. Bitwise Operators
-&   AND
-|   OR
-^   XOR
-~   NOT
-<<  Left shift
->>  Right shift
->>> Zero-fill right shift
+### 5. Unary Operators
+- `++` Increment
+- `--` Decrement
+- `typeof` Check type
 
-10. String Operator
-+   (e.g., "Hello" + " World")
+### 6. Ternary Operator
+- `condition ? value1 : value2`
 
-11. Type Operators
-typeof
-instanceof
+### 7. Nullish Coalescing Operator
+- `??`
 
+### 8. Optional Chaining
+- `?.`
+
+### 9. Bitwise Operators
+- `&` AND
+- `|` OR
+- `^` XOR
+- `~` NOT
+- `<<` Left shift
+- `>>` Right shift
+- `>>>` Zero-fill right shift
+
+### 10. String Operator
+- `+` Concatenation (e.g., `"Hello" + " World"`)
+
+### 11. Type Operators
+- `typeof`
+- `instanceof`
